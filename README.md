@@ -150,6 +150,6 @@ In this article we have learned How we can use graphic.h in Visual Studio Commun
 
 This article is especially useful for College students who are taking a Computer Graphics Course.
 
-I hope this article helped you, if you liked it please share it with your friends.
+I hope this article helped you, if you liked it please star this repo and share it with your friends.
 
 
