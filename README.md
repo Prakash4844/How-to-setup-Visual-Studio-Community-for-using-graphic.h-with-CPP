@@ -1,4 +1,4 @@
-# **HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++**
+<h1 align="center"> HOW TO SETUP VISUAL STUDIO COMMUNITY FOR GRAPHICAL PROGRAMMING IN C++ using Graphic.h</h1>
 
 ## **INTRODUCTION**
 Hello Everyone, Today we are going to set up Visual Studio Community Edition for Computer Graphical Programming using graphic.h in C++. 
